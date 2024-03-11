@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -273,8 +273,8 @@ MonoBehaviour:
     y: 0
     width: 408
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -318,8 +318,8 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_MixersTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 565c0000
-    m_LastClickedID: 23638
+    m_SelectedIDs: 2c5e0000
+    m_LastClickedID: 24108
     m_ExpandedIDs: 12eb343c
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -435,7 +435,7 @@ MonoBehaviour:
       oldMaxSizes: 
       oldSplitSize: 0
     m_HorizontalSplitter:
-      ID: 2631
+      ID: 231
       splitterInitialOffset: 0
       currentActiveSplitter: -1
       realSizes:
@@ -1076,9 +1076,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 524.465, y: 289.09552, z: -417.69766}
+    m_Target: {x: 37.486565, y: -115.48992, z: 156.73337}
     speed: 2
-    m_Value: {x: 524.465, y: 289.09552, z: -417.69766}
+    m_Value: {x: 37.486565, y: -115.48992, z: 156.73337}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1124,9 +1124,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.037802286, y: -0.009896772, z: 0.00044652287, w: -0.9993054}
+    m_Target: {x: -0.29951406, y: -0.11071661, z: 0.035109244, w: -0.94707024}
     speed: 2
-    m_Value: {x: -0.037799668, y: -0.0098960865, z: 0.00044649193, w: -0.9992362}
+    m_Value: {x: -0.2994929, y: -0.11070879, z: 0.035106763, w: -0.9470033}
   m_Size:
     m_Target: 110.3804
     speed: 2
@@ -1194,9 +1194,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: d45c0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 246dffff4270ffffb276fffff87fffff5a81ffff8883ffffea84ffff968bffff3a8dffff5e8effff7a91ffffdc92ffff3894ffffa095fffff496ffff3aa6ffff92acfffff6acffffaaadffff4eb4ffffe0b9ffffaabaffffa0bcffff1ebefffffcc0ffff80caffff6accffff0ccfffff28d0fffffad8ffffc4daffff4ee0ffffa6e0ffff9ae1ffff02e3ffff56e3ffff16fbfffff4ffffffd25c0000fe5c00001e5e0000d85e0000da8a00007c8b0000828d0000da8d00000a8e00000e8e00001898000050980000369f00006e9f0000b69f0000ee9f000020c6000012c900001eca000024cc0000841601008a160100a2160100
+      m_ExpandedIDs: 484effff984effffc651ffff0453ffffc059ffffb860ffff3c62ffffd064ffff82c1ffff34c8ffff34ccffff28d1fffff4ffffff327b0000287d00002e7d0000e0810000a8830000cc840000b4980000929a0000a09b000084060100b8060100bc0601008a26010078290100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1339,7 +1339,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Audio
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1349,16 +1349,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 74
   m_LastFolders:
-  - Assets/Audio
+  - Assets/Scripts
   m_LastFoldersGridSize: 74
-  m_LastProjectPath: C:\temp\Aidan\Unity projects\Unit 5+7
+  m_LastProjectPath: C:\temp\Aidan\Unit-5-7v2\Unit 5+7
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: 8c600000
-    m_LastClickedID: 24716
-    m_ExpandedIDs: 00000000686000006a6000006c6000006e600000706000007260000092600000966000009860000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 045c0000
+    m_LastClickedID: 23556
+    m_ExpandedIDs: 000000000c5c0000145c0000185c0000305c0000445c0000605c0000785c00007c5c0000a07e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1386,7 +1386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000686000006a6000006c6000006e6000007060000072600000
+    m_ExpandedIDs: 000000000c5c0000145c0000185c0000305c0000445c0000605c0000785c00007c5c0000a07e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1516,7 +1516,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 71300
+  m_LastSelectedObjectID: 31484
 --- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52

@@ -16,6 +16,7 @@ public class AudioManager : MonoBehaviour
     int musicPlaying = 1;
 
 
+
     private static AudioManager instance;
 
     private void Awake()
@@ -35,6 +36,7 @@ public class AudioManager : MonoBehaviour
     {
         MusicSource.clip = Space;
         MusicSource.Play();
+
     }
 
     private void Update()
